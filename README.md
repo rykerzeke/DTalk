@@ -1,6 +1,6 @@
 # DTalk
 # Disease_prediction
-This was a group project done by me, where  I have created a demo application named Dtalk for predicting the possible disease using the symptoms of patient.
+This was a project done by me, where  I have created a demo application named Dtalk for predicting the possible disease using the symptoms of patient.
 
 DtaLK  is an android application that helps our users to connect with their doctors online.
 User can choose any of the Specialized Doctors from the list and can have a real-time chat with their doctors.
